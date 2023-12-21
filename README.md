@@ -40,6 +40,5 @@ Acetylcholinesterase on NCBI
 # Acknowledgements
 We would like to thank the contributors of the UniProt database for providing valuable data for this analysis.
 
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
