@@ -21,5 +21,5 @@ longest_sequence = max(sequences, key=len)
 # Print results
 print(f"Number of sequences: {len(sequences)}")
 print(f"Average sequence length: {avg_length:.2f}")
-print(f"Length of the lomgest sequence: {len(longest_sequence)}")
+print(f"Length of the longest sequence: {len(longest_sequence)}")
 
